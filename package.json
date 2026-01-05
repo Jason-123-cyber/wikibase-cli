@@ -47,7 +47,7 @@
   },
   "homepage": "https://github.com/maxlath/wikibase-cli#readme",
   "dependencies": {
-    "chalk": "^5.4.1",
+    "chalk": "^5.6.2",
     "commander": "^6.0.0",
     "copy-paste": "^1.5.0",
     "lodash-es": "^4.17.21",
