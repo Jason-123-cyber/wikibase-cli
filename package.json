@@ -54,7 +54,7 @@
     "mkdirp": "^3.0.1",
     "open": "^9.1.0",
     "read": "^2.1.0",
-    "shell-quote": "^1.8.1",
+    "shell-quote": "^1.8.3",
     "split": "^1.0.1",
     "through": "^2.3.8",
     "wikibase-edit": "^8.0.6",
